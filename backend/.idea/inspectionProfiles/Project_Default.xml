@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="coverage" />
+            <item index="1" class="java.lang.String" itemvalue="django-nose" />
+            <item index="2" class="java.lang.String" itemvalue="mailchimp-marketing" />
+            <item index="3" class="java.lang.String" itemvalue="django-oauth-toolkit" />
+            <item index="4" class="java.lang.String" itemvalue="qrcode" />
+            <item index="5" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="6" class="java.lang.String" itemvalue="mandrill" />
+            <item index="7" class="java.lang.String" itemvalue="django-storages" />
+            <item index="8" class="java.lang.String" itemvalue="python-logstash-async" />
+            <item index="9" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="10" class="java.lang.String" itemvalue="flake8" />
+            <item index="11" class="java.lang.String" itemvalue="boto3" />
+            <item index="12" class="java.lang.String" itemvalue="Django" />
+            <item index="13" class="java.lang.String" itemvalue="stripe" />
+            <item index="14" class="java.lang.String" itemvalue="pycountry" />
+            <item index="15" class="java.lang.String" itemvalue="django-admin-rangefilter" />
+            <item index="16" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="17" class="java.lang.String" itemvalue="django-cors-headers" />
+            <item index="18" class="java.lang.String" itemvalue="backports-datetime-fromisoformat" />
+            <item index="19" class="java.lang.String" itemvalue="Pillow" />
+            <item index="20" class="java.lang.String" itemvalue="WeasyPrint" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
